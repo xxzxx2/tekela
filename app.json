@@ -1,9 +1,9 @@
 {
-  "name": "Source DevProx Music",
+  "name": "Source Twix Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Developed by Abs.",
   "logo": "https://raw.githubusercontent.com/iq0abs/MusicBot/master/DevProx.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://t.me/Dev_Prox/",
+  "repository": "https://t.me/QTQQQT/",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
